@@ -1,2 +1,4 @@
 #EXTM3U
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/mnc.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
